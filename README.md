@@ -1,6 +1,5 @@
 # Student-Database-management-system-MySQL
 
-# Student Database Management System
 
 ## Overview
 The **Student Database Management System** is a C++ application integrated with MySQL that enables efficient management of student records. It supports CRUD (Create, Read, Update, Delete) operations, making it a practical tool for handling student data systematically.
